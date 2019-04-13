@@ -11,7 +11,7 @@ public class GitTrial {
 		
 		System.out.println(start + middle);
 		System.out.println(end);
-		System.out.println("See you~~~" + "I modified to resolve the conflict");
+		System.out.println("See you~~~" + "I created the conflict");
 		
 		System.out.println("It's fixed now!");
 
