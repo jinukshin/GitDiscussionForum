@@ -1,4 +1,4 @@
-package GitDiscussionForum; // added by Krishna
+package GitDiscussionForum;
 
 public class GitTrial {
 
@@ -6,13 +6,15 @@ public class GitTrial {
 		// TODO Auto-generated method stub
 
 		String start = "This file is created ";
-		String middle = "to test Git with collaborater!";
-		String end = "Can you find the typo I have on all my typings and fix it ? :-) ";
+		String middle = "to test Git with collaboraters!";
+		String end = "Can you find typos I may have on all my typings and fix it ? :-) ";
 		
 		System.out.println(start + middle);
 		System.out.println(end);
-		System.out.println("Bye~~~" + "I added this comment to cause a conflict!");
+		System.out.println("See you~~~" + "I modified to resolve the conflict");
 		
+		System.out.println("It's fixed now!");
+
 	}
 
 }
