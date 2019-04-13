@@ -10,7 +10,7 @@ public class GitTrial {
 		
 		System.out.println(start + middle);
 		System.out.println(end);
-		System.out.println("Bye~~~");
+		System.out.println("Bye~~~" + "I added this comment to cause a conflict!");
 		
 	}
 
