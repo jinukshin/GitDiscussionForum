@@ -1,3 +1,4 @@
+package GitDiscussionForum; // added by Krishna
 
 public class GitTrial {
 
