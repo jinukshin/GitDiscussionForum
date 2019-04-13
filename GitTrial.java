@@ -11,7 +11,7 @@ public class GitTrial {
 		
 		System.out.println(start + middle);
 		System.out.println(end);
-		System.out.println("Bye~~~");
+		System.out.println("See you");
 		
 		System.out.println("It's fixed now!");
 
